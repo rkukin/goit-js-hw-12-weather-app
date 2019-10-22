@@ -48,6 +48,8 @@
   },
   "dependencies": {
     "core-js": "^3.1.4",
-    "handlebars": "^4.4.5"
+    "handlebars": "^4.4.5",
+    "imagemin": "^7.0.0",
+    "pnotify": "^4.0.0"
   }
 }
