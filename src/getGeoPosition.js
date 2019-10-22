@@ -1,5 +1,3 @@
 'use strict';
 
-export default function getGeoPosition() {
-  navigator.geolocation();
-}
+export default function getGeoPosition() {}
